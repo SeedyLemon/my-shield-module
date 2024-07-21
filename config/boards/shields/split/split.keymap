@@ -38,7 +38,7 @@
                         bindings = <
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans
-&trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans
+&trans      &trans      &trans      &trans      &trans      &trans              &trans      &kp MINUS      &kp EQUAL      &kp LBKT      &kp RBKT      &kp BSLH
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans  
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans
             >;
