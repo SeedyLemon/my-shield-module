@@ -36,7 +36,7 @@
 
         lower_lower_layer {
                         bindings = <
-&trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans
+&kp F0      &kp F1      &kp F2      &kp F3      &kp F4      &kp F5              &trans      &trans      &trans      &trans      &trans      &trans
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &kp MINUS      &kp EQUAL      &kp LBKT      &kp RBKT      &kp BSLH
 &trans      &trans      &trans      &trans      &trans      &trans              &trans      &trans      &trans      &trans      &trans      &trans  
