@@ -3,7 +3,7 @@ if SHIELD_WOODY_LEFT
 config ZMK_KEYBOARD_NAME
     default "Woody Left"
 
-config ZMK_SPLIT_ROLE_CENTRAL
+config ZMK_WOODY_ROLE_CENTRAL
     default y
 
 endif
