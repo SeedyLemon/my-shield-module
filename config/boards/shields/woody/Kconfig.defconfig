@@ -1,16 +1,16 @@
-if SHIELD_SPLIT_LEFT
+if SHIELD_WOODY_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Split Left"
+    default "Woody Left"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_SPLIT_LEFT || SHIELD_SPLIT_RIGHT
+if SHIELD_WOODY_LEFT || SHIELD_WOODY_RIGHT
 
-config ZMK_SPLIT
+config ZMK_WOODY
     default y
 
 endif

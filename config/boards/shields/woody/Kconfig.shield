@@ -1,5 +1,5 @@
-config SHIELD_SPLIT_LEFT
-    def_bool $(shields_list_contains,split_left)
+config SHIELD_WOODY_LEFT
+    def_bool $(shields_list_contains,woody_left)
 
-config SHIELD_SPLIT_RIGHT
-    def_bool $(shields_list_contains,split_right)
+config SHIELD_WOODY_RIGHT
+    def_bool $(shields_list_contains,woody_right)
