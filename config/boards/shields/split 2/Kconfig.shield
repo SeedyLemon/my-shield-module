@@ -1,5 +1,0 @@
-config SHIELD_SPLIT_LEFT_2
-    def_bool $(shields_list_contains,split_left_2)
-
-config SHIELD_SPLIT_RIGHT_2
-    def_bool $(shields_list_contains,split_right_2)
