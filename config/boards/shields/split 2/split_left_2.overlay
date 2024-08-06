@@ -1,4 +1,4 @@
-#include "split.dtsi"
+#include "split_2.dtsi"
 
 
 &kscan0 {
